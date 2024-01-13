@@ -25,9 +25,3 @@ I'm Yuriy Koval' a Senior Software Engineer with more than 10 years of experienc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ykoval/ykoval/output/snake.svg" alt="Snake animation" />
-
-###
